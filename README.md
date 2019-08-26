@@ -7,5 +7,5 @@ This short tutorial will be presented on 28th August 2019 at 16:30-18:30 EEST. I
 * Training a state-of-the-art ResNet classifier on CIFAR10 benchmark dataset
 
 ## Getting started
-Follow this [link](https://colab.research.google.com/drive/1bKunb0v0A97gKvTQCXvgsC53QxoXFJoQ#scrollTo=IAnkDSS5IbjV) that will open a Python notebook in Google Colab and follow instructions to setup the tutorial workspace.
+This [link](https://colab.research.google.com/drive/1bKunb0v0A97gKvTQCXvgsC53QxoXFJoQ#scrollTo=IAnkDSS5IbjV) will open a Python notebook in Google Colab. Follow the instructions to setup the tutorial workspace.
 
